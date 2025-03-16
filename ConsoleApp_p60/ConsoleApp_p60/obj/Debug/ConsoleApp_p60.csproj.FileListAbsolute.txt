@@ -1,0 +1,7 @@
+C:\study\ConsoleApp_p60\ConsoleApp_p60\bin\Debug\ConsoleApp_p60.exe.config
+C:\study\ConsoleApp_p60\ConsoleApp_p60\bin\Debug\ConsoleApp_p60.exe
+C:\study\ConsoleApp_p60\ConsoleApp_p60\bin\Debug\ConsoleApp_p60.pdb
+C:\study\ConsoleApp_p60\ConsoleApp_p60\obj\Debug\ConsoleApp_p60.csproj.AssemblyReference.cache
+C:\study\ConsoleApp_p60\ConsoleApp_p60\obj\Debug\ConsoleApp_p60.csproj.CoreCompileInputs.cache
+C:\study\ConsoleApp_p60\ConsoleApp_p60\obj\Debug\ConsoleApp_p60.exe
+C:\study\ConsoleApp_p60\ConsoleApp_p60\obj\Debug\ConsoleApp_p60.pdb

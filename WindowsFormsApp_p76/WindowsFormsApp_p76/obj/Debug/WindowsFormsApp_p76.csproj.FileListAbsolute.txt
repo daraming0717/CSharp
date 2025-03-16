@@ -1,0 +1,10 @@
+C:\study\WindowsFormsApp_p76\WindowsFormsApp_p76\bin\Debug\WindowsFormsApp_p76.exe.config
+C:\study\WindowsFormsApp_p76\WindowsFormsApp_p76\bin\Debug\WindowsFormsApp_p76.exe
+C:\study\WindowsFormsApp_p76\WindowsFormsApp_p76\bin\Debug\WindowsFormsApp_p76.pdb
+C:\study\WindowsFormsApp_p76\WindowsFormsApp_p76\obj\Debug\WindowsFormsApp_p76.csproj.AssemblyReference.cache
+C:\study\WindowsFormsApp_p76\WindowsFormsApp_p76\obj\Debug\WindowsFormsApp_p76.Form1.resources
+C:\study\WindowsFormsApp_p76\WindowsFormsApp_p76\obj\Debug\WindowsFormsApp_p76.Properties.Resources.resources
+C:\study\WindowsFormsApp_p76\WindowsFormsApp_p76\obj\Debug\WindowsFormsApp_p76.csproj.GenerateResource.cache
+C:\study\WindowsFormsApp_p76\WindowsFormsApp_p76\obj\Debug\WindowsFormsApp_p76.csproj.CoreCompileInputs.cache
+C:\study\WindowsFormsApp_p76\WindowsFormsApp_p76\obj\Debug\WindowsFormsApp_p76.exe
+C:\study\WindowsFormsApp_p76\WindowsFormsApp_p76\obj\Debug\WindowsFormsApp_p76.pdb

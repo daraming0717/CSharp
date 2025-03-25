@@ -1,0 +1,12 @@
+C:\study\WindowsFormsApp_p169\WindowsFormsApp_p169\obj\Debug\WindowsFormsApp_p169.csproj.AssemblyReference.cache
+C:\study\WindowsFormsApp_p169\WindowsFormsApp_p169\obj\Debug\WindowsFormsApp_p169.Form1.resources
+C:\study\WindowsFormsApp_p169\WindowsFormsApp_p169\obj\Debug\WindowsFormsApp_p169.Properties.Resources.resources
+C:\study\WindowsFormsApp_p169\WindowsFormsApp_p169\obj\Debug\WindowsFormsApp_p169.csproj.GenerateResource.cache
+C:\study\WindowsFormsApp_p169\WindowsFormsApp_p169\obj\Debug\WindowsFormsApp_p169.csproj.CoreCompileInputs.cache
+C:\study\WindowsFormsApp_p169\WindowsFormsApp_p169\bin\Debug\WindowsFormsApp_p169.exe.config
+C:\study\WindowsFormsApp_p169\WindowsFormsApp_p169\bin\Debug\WindowsFormsApp_p169.exe
+C:\study\WindowsFormsApp_p169\WindowsFormsApp_p169\bin\Debug\WindowsFormsApp_p169.pdb
+C:\study\WindowsFormsApp_p169\WindowsFormsApp_p169\bin\Debug\Nakov.TurtleGraphics.dll
+C:\study\WindowsFormsApp_p169\WindowsFormsApp_p169\obj\Debug\WindowsF.02E4763C.Up2Date
+C:\study\WindowsFormsApp_p169\WindowsFormsApp_p169\obj\Debug\WindowsFormsApp_p169.exe
+C:\study\WindowsFormsApp_p169\WindowsFormsApp_p169\obj\Debug\WindowsFormsApp_p169.pdb

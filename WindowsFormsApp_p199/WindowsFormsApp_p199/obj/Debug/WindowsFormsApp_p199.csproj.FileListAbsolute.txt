@@ -1,0 +1,10 @@
+C:\study\WindowsFormsApp_p199\WindowsFormsApp_p199\bin\Debug\WindowsFormsApp_p199.exe.config
+C:\study\WindowsFormsApp_p199\WindowsFormsApp_p199\bin\Debug\WindowsFormsApp_p199.exe
+C:\study\WindowsFormsApp_p199\WindowsFormsApp_p199\bin\Debug\WindowsFormsApp_p199.pdb
+C:\study\WindowsFormsApp_p199\WindowsFormsApp_p199\obj\Debug\WindowsFormsApp_p199.csproj.AssemblyReference.cache
+C:\study\WindowsFormsApp_p199\WindowsFormsApp_p199\obj\Debug\WindowsFormsApp_p199.Form1.resources
+C:\study\WindowsFormsApp_p199\WindowsFormsApp_p199\obj\Debug\WindowsFormsApp_p199.Properties.Resources.resources
+C:\study\WindowsFormsApp_p199\WindowsFormsApp_p199\obj\Debug\WindowsFormsApp_p199.csproj.GenerateResource.cache
+C:\study\WindowsFormsApp_p199\WindowsFormsApp_p199\obj\Debug\WindowsFormsApp_p199.csproj.CoreCompileInputs.cache
+C:\study\WindowsFormsApp_p199\WindowsFormsApp_p199\obj\Debug\WindowsFormsApp_p199.exe
+C:\study\WindowsFormsApp_p199\WindowsFormsApp_p199\obj\Debug\WindowsFormsApp_p199.pdb

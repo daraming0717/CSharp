@@ -1,0 +1,7 @@
+C:\study\ConsoleApp06_23\ConsoleApp06_23\bin\Debug\ConsoleApp06_23.exe.config
+C:\study\ConsoleApp06_23\ConsoleApp06_23\bin\Debug\ConsoleApp06_23.exe
+C:\study\ConsoleApp06_23\ConsoleApp06_23\bin\Debug\ConsoleApp06_23.pdb
+C:\study\ConsoleApp06_23\ConsoleApp06_23\obj\Debug\ConsoleApp06_23.csproj.AssemblyReference.cache
+C:\study\ConsoleApp06_23\ConsoleApp06_23\obj\Debug\ConsoleApp06_23.csproj.CoreCompileInputs.cache
+C:\study\ConsoleApp06_23\ConsoleApp06_23\obj\Debug\ConsoleApp06_23.exe
+C:\study\ConsoleApp06_23\ConsoleApp06_23\obj\Debug\ConsoleApp06_23.pdb

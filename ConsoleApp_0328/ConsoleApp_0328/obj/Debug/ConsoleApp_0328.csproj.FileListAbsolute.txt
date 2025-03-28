@@ -1,0 +1,7 @@
+C:\study\ConsoleApp_0328\ConsoleApp_0328\bin\Debug\ConsoleApp_0328.exe.config
+C:\study\ConsoleApp_0328\ConsoleApp_0328\bin\Debug\ConsoleApp_0328.exe
+C:\study\ConsoleApp_0328\ConsoleApp_0328\bin\Debug\ConsoleApp_0328.pdb
+C:\study\ConsoleApp_0328\ConsoleApp_0328\obj\Debug\ConsoleApp_0328.csproj.AssemblyReference.cache
+C:\study\ConsoleApp_0328\ConsoleApp_0328\obj\Debug\ConsoleApp_0328.csproj.CoreCompileInputs.cache
+C:\study\ConsoleApp_0328\ConsoleApp_0328\obj\Debug\ConsoleApp_0328.exe
+C:\study\ConsoleApp_0328\ConsoleApp_0328\obj\Debug\ConsoleApp_0328.pdb

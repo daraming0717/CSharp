@@ -1,0 +1,7 @@
+C:\study\ConsoleApp_0402_1\ConsoleApp_0402_1\bin\Debug\ConsoleApp_0402_1.exe.config
+C:\study\ConsoleApp_0402_1\ConsoleApp_0402_1\bin\Debug\ConsoleApp_0402_1.exe
+C:\study\ConsoleApp_0402_1\ConsoleApp_0402_1\bin\Debug\ConsoleApp_0402_1.pdb
+C:\study\ConsoleApp_0402_1\ConsoleApp_0402_1\obj\Debug\ConsoleApp_0402_1.csproj.AssemblyReference.cache
+C:\study\ConsoleApp_0402_1\ConsoleApp_0402_1\obj\Debug\ConsoleApp_0402_1.csproj.CoreCompileInputs.cache
+C:\study\ConsoleApp_0402_1\ConsoleApp_0402_1\obj\Debug\ConsoleApp_0402_1.exe
+C:\study\ConsoleApp_0402_1\ConsoleApp_0402_1\obj\Debug\ConsoleApp_0402_1.pdb

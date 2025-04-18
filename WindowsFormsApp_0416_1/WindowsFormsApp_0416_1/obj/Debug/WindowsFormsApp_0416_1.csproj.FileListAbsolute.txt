@@ -1,0 +1,10 @@
+C:\study\WindowsFormsApp_0416_1\WindowsFormsApp_0416_1\bin\Debug\WindowsFormsApp_0416_1.exe.config
+C:\study\WindowsFormsApp_0416_1\WindowsFormsApp_0416_1\bin\Debug\WindowsFormsApp_0416_1.exe
+C:\study\WindowsFormsApp_0416_1\WindowsFormsApp_0416_1\bin\Debug\WindowsFormsApp_0416_1.pdb
+C:\study\WindowsFormsApp_0416_1\WindowsFormsApp_0416_1\obj\Debug\WindowsFormsApp_0416_1.csproj.AssemblyReference.cache
+C:\study\WindowsFormsApp_0416_1\WindowsFormsApp_0416_1\obj\Debug\WindowsFormsApp_0416_1.Form1.resources
+C:\study\WindowsFormsApp_0416_1\WindowsFormsApp_0416_1\obj\Debug\WindowsFormsApp_0416_1.Properties.Resources.resources
+C:\study\WindowsFormsApp_0416_1\WindowsFormsApp_0416_1\obj\Debug\WindowsFormsApp_0416_1.csproj.GenerateResource.cache
+C:\study\WindowsFormsApp_0416_1\WindowsFormsApp_0416_1\obj\Debug\WindowsFormsApp_0416_1.csproj.CoreCompileInputs.cache
+C:\study\WindowsFormsApp_0416_1\WindowsFormsApp_0416_1\obj\Debug\WindowsFormsApp_0416_1.exe
+C:\study\WindowsFormsApp_0416_1\WindowsFormsApp_0416_1\obj\Debug\WindowsFormsApp_0416_1.pdb
